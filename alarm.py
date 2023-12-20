@@ -5,6 +5,7 @@ import time
 import threading
 import pygame
 
+#alarm
 class AlarmClock:
     def __init__(self, master):
         self.master = master
